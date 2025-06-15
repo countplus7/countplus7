@@ -47,12 +47,12 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="55" height="55" alt="Jquery" />
       <br>jQuery
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="ReactJS"/>
       <br>React JS
@@ -81,8 +81,6 @@
         <img src="https://skillicons.dev/icons?i=apollo" width="55" height="55" alt="Ant Design"/>
       <br>Antd
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vuetify" width="55" height="55" alt="Vuetify"/>
       <br>Vuetify
@@ -91,6 +89,8 @@
         <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node JS"/>
       <br>Node JS
@@ -115,8 +115,6 @@
         <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL"/>
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite"/>
       <br>SQLite
@@ -124,5 +122,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
       <br>AWS
-    </td></tr>
+    </td>
+  </tr>
 </table>
