@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=apollo" width="55" height="55" alt="Ant Design"/>
-      <br>Antd
+      <br>Ant D
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vuetify" width="55" height="55" alt="Vuetify"/>
