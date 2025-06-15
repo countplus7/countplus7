@@ -11,7 +11,7 @@
 
 ## My Technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Technologies that I am interested in
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="TypeScript" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="55" height="55" />
       <br>TypeScript
     </td>
     <td align="center"  width="96">
@@ -49,7 +49,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
-      <br>Tailwind
+      <br>Tailwind CSS
     </td>
   </tr>
   <tr>
@@ -74,27 +74,23 @@
       <br>MUI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=chakra" width="55" height="55" alt="Chakra UI"/>
+        <img src="https://skillicons.dev/icons?i=superbase" width="55" height="55" alt="Chakra UI"/>
       <br>Chakra UI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="55" height="55" alt="MUI"/>
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=antd" width="55" height="55" alt="Ant Design"/>
+        <img src="https://skillicons.dev/icons?i=apollo" width="55" height="55" alt="Ant Design"/>
       <br>Ant Design
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vuetify" width="55" height="55" alt="Vuetify"/>
       <br>Vuetify
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=node" width="55" height="55" alt="Node JS"/>
       <br>Node JS
@@ -124,15 +120,10 @@
       <br>SQLite
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="55" height="55" alt="WordPress"/>
-      <br>WordPress
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
       <br>AWS
-    </td></tr>
+    </td>
+  </tr>
 </table>
 
 <!---
