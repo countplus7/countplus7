@@ -1,10 +1,10 @@
 <h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, I'm Marcus!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, Hello, everyone!
 </h1>
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  As a seasoned web developer with over 8 years of solid experience in frontend and backend development, specialized in building fully responsive, high-performance websites using HTML, CSS, JavaScript, TypeScript, PHP, Python and their frameworks like React, Next.js, Vue.js, Nuxt.js, Node.js, Laravel, Django, and etc. Skilled in communication, adaptable in solving problems, focused on customer service, and able to manage multiple tasks and time efficiently. Demonstrated success in leading web projects from concept through design, development, testing, and final implementation. Committed to continuous learning and applying new technologies for improved solutions.
+  As a seasoned web developer with over 7 years of experience, specialized in building fully responsive, high-performance websites using HTML, CSS, JavaScript, TypeScript, PHP, Python and their frameworks like React, Next.js, Vue.js, Nuxt.js, Node.js, Laravel, Django, and etc. Skilled in communication, adaptable in solving problems, focused on customer service, and able to manage multiple tasks and time efficiently. Demonstrated success in leading web projects from concept through design, development, testing, and final implementation.
   </p>
 </span>
 <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
@@ -122,6 +122,16 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="AWS"/>
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="AWS"/>
+      <br>Supabase
     </td>
   </tr>
 </table>
