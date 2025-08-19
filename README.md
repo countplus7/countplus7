@@ -1,13 +1,19 @@
 <h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, Hello, everyone!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, everyone!
 </h1>
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  As a seasoned web developer with over 7 years of experience, specialized in building fully responsive, high-performance websites using HTML, CSS, JavaScript, TypeScript, PHP, Python and their frameworks like React, Next.js, Vue.js, Nuxt.js, Node.js, Laravel, Django, and etc. Skilled in communication, adaptable in solving problems, focused on customer service, and able to manage multiple tasks and time efficiently. Demonstrated success in leading web projects from concept through design, development, testing, and final implementation.
+  I am a Full-Stack Web Developer with over 9 years of experience designing and building scalable, high-performance, and user-focused digital solutions. My expertise spans both frontend and backend development, where I specialize in creating responsive interfaces, robust server-side architectures, and seamless integrations that deliver measurable business value.
+  </p>
+  <p align="justify">
+  On the frontend, I work extensively with modern technologies such as HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Angular, Vue.js, and Tailwind CSS to craft intuitive and accessible user experiences. On the backend, I am proficient with Node.js, Express.js, PHP, Laravel, Python, Django, and FastAPI, with a strong background in developing secure APIs, real-time systems, and microservices.
+  </p>
+  <p align="justify">
+  I have extensive experience with databases including MySQL, PostgreSQL, MongoDB, and Redis, as well as cloud and DevOps practices such as AWS services, Docker, Kubernetes, and CI/CD pipelines. My technical skill set also includes GraphQL, REST APIs, WebSockets, authentication systems, and advanced web scraping solutions.
   </p>
 </span>
-<img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
+<!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
 
 ## My Technologies ⚙️
 
@@ -62,6 +68,10 @@
       <br>Next JS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Vue JS"/>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="Vue JS"/>
       <br>Vue JS
     </td>
@@ -85,12 +95,12 @@
         <img src="https://skillicons.dev/icons?i=vuetify" width="55" height="55" alt="Vuetify"/>
       <br>Vuetify
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
       <br>Express
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node JS"/>
       <br>Node JS
@@ -123,15 +133,15 @@
         <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
       <br>AWS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="AWS"/>
-      <br>Firebase
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="AWS"/>
       <br>Supabase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="AWS"/>
+      <br>Firebase
     </td>
   </tr>
 </table>
