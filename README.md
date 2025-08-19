@@ -1,6 +1,6 @@
-<h2>
+<h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Welcome to My Profile!
-</h2>
+</h1>
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
