@@ -4,7 +4,7 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a Full-Stack Web Developer with over 9 years of experience designing and building scalable, high-performance, and user-focused digital solutions. My expertise spans both frontend and backend development, where I specialize in creating responsive interfaces, robust server-side architectures, and seamless integrations that deliver measurable business value.
+  I am a Full-Stack Web Developer with over 7 years of experience designing and building scalable, high-performance, and user-focused digital solutions. My expertise spans both frontend and backend development, where I specialize in creating responsive interfaces, robust server-side architectures, and seamless integrations that deliver measurable business value.
   </p>
   <p align="justify">
   On the frontend, I work extensively with modern technologies such as HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Angular, Vue.js, and Tailwind CSS to craft intuitive and accessible user experiences. On the backend, I am proficient with Node.js, Express.js, PHP, Laravel, Python, Django, and FastAPI, with a strong background in developing secure APIs, real-time systems, and microservices.
