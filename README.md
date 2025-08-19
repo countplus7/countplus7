@@ -1,5 +1,5 @@
 <h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">, everyone!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">Welcome!
 </h1>
 
 <span style="display: inline-block; width: 50%;">
