@@ -106,6 +106,10 @@
       <br>Node JS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nest" width="55" height="55" alt="Node JS"/>
+      <br>Nest JS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
       <br>Laravel
     </td>
@@ -129,12 +133,12 @@
         <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite"/>
       <br>SQLite
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="AWS"/>
       <br>Supabase
