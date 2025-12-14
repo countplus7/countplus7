@@ -7,7 +7,7 @@
   I am a Full-Stack Web Developer with 10+ years of experience designing and building scalable, high-performance, and user-focused digital solutions. My expertise spans both frontend and backend development, where I specialize in creating responsive interfaces, robust server-side architectures, and seamless integrations that deliver measurable business value.
   </p>
   <p align="justify">
-  On the frontend, I work extensively with modern technologies such as HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Angular, Vue.js and etxra to craft intuitive and accessible user experiences. On the backend, I am proficient with Node.js, Express.js, Laravel, Django, and extra with a strong background in developing secure APIs, real-time systems, and microservices.
+  On the frontend, I work extensively with modern technologies such as React, Next.js, Vue.js, Angular (etc.) to craft intuitive and accessible user experiences. On the backend, I am proficient with Node.js, Nuxt.js, Laravel, Python/Django (etc.) with a strong background in developing secure APIs, real-time systems, and microservices.
   </p>
   <p align="justify">
   I have extensive experience with databases including MySQL, PostgreSQL, MongoDB, and Redis and extra, as well as cloud and DevOps practices such as AWS services, Docker, Kubernetes, and CI/CD pipelines. My technical skill set also includes GraphQL, REST APIs, WebSockets, authentication systems, and AI based automation/scraping solutions.
