@@ -1,5 +1,5 @@
 <h2>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: bottom;"> Welcome to My Profile!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="vertical-align: text-bottom;"> Welcome to My Profile!
 </h2>
 
 <span style="display: inline-block; width: 50%;">
