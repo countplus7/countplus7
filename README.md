@@ -2,13 +2,13 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a Full-Stack Web Developer with 10+ years of experience designing and building scalable, high-performance, and user-focused digital solutions. My expertise spans both frontend and backend development, where I specialize in creating responsive interfaces, robust server-side architectures, and seamless integrations that deliver measurable business value.
+  I am a Full Stack | Web | AI & Automation Developer with experience designing, building, and scaling modern digital solutions. I specialize in creating high-performance web applications, intelligent AI-driven systems, and automation workflows that improve efficiency and deliver real business value.
   </p>
   <p align="justify">
-  On the frontend, I work extensively with modern technologies such as React, Next.js, Vue.js, Angular (etc.) to craft intuitive and accessible user experiences. On the backend, I am proficient with Node.js, Nuxt.js, Laravel, Python/Django (etc.) with a strong background in developing secure APIs, real-time systems, and microservices.
+  I work across the full technology stack, handling everything from backend architecture and APIs to responsive, user-focused frontends and cloud deployments. My expertise includes integrating AI and machine learning models, building automation pipelines, and developing systems that optimize processes, enhance customer experiences, and support data-driven decision-making.
   </p>
   <p align="justify">
-  I have extensive experience with databases including MySQL, PostgreSQL, MongoDB, and Redis and extra, as well as cloud and DevOps practices such as AWS services, Docker, Kubernetes, and CI/CD pipelines. My technical skill set also includes GraphQL, REST APIs, WebSockets, authentication systems, and AI based automation/scraping solutions.
+  With a strong emphasis on clean architecture, scalability, and performance, I translate complex business requirements into reliable, production-ready solutions. I collaborate effectively with cross-functional teams and stakeholders, thrive in fast-paced environments, and am passionate about leveraging technology to solve real-world problems.
   </p>
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
