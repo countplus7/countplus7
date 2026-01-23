@@ -55,6 +55,10 @@
       <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Tailwind" />
       <br>Java
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -66,16 +70,16 @@
       <br>Next JS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" width="55" height="55" alt="Nuxt JS"/>
+      <br>Nuxt JS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Vue JS"/>
       <br>Angular
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="Vue JS"/>
       <br>Vue JS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" width="55" height="55" alt="Nuxt JS"/>
-      <br>Nuxt JS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
@@ -154,16 +158,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=googlecloud" width="55" height="55" alt="AWS"/>
-      <br>Google Cloud
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="AWS"/>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="AWS"/>
-      <br>Nginx
     </td>
   </tr>
 </table>
