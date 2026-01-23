@@ -1,8 +1,8 @@
-## Welcome to My Profile!
+## Web | AI & Automation | Scraping Specialist
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a Full Stack | Web | AI & Automation Developer with experience designing, building, and scaling modern digital solutions. I specialize in creating high-performance web applications, intelligent AI-driven systems, and automation workflows that improve efficiency and deliver real business value.
+  I am a skilled full-stack developer with experience designing, building, and scaling modern digital solutions. I specialize in creating high-performance web applications, intelligent AI-driven systems, and automation workflows that improve efficiency and deliver real business value.
   </p>
   <p align="justify">
   I work across the full technology stack, handling everything from backend architecture and APIs to responsive, user-focused frontends and cloud deployments. My expertise includes integrating AI and machine learning models, building automation pipelines, and developing systems that optimize processes, enhance customer experiences, and support data-driven decision-making.
