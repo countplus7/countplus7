@@ -47,20 +47,12 @@
       <img src="https://skillicons.dev/icons?i=c#" alt="C#" width="55" height="55" />
       <br>C#
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="55" height="55" />
-      <br>.NET
-    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55" />
       <br>Java
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55" height="55" />
-      <br>TailwindCSS
-    </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55"/>
       <br>React
@@ -86,6 +78,16 @@
       <br>Svelte
     </td>
     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="55" height="55"/>
+      <br>Webpack
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="55" height="55"/>
+      <br>Vite
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55"/>
       <br>Express
     </td>
@@ -93,8 +95,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55"/>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="55" height="55"/>
       <br>Nest.js
@@ -119,6 +119,8 @@
         <img src="https://skillicons.dev/icons?i=django" alt="Django" width="55" height="55"/>
       <br>Django
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="55" height="55"/>
       <br>PostgreSQL
@@ -131,8 +133,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="55" height="55"/>
       <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="55" height="55"/>
       <br>SQLite
@@ -153,6 +153,8 @@
         <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="55" height="55"/>
       <br>Supabase
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="55" height="55"/>
       <br>AWS
