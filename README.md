@@ -1,4 +1,4 @@
-## Web | AI & Automation | Scraping Specialist
+Web | AI & Automation | Scraping Specialist
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
@@ -13,7 +13,7 @@
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
 
-## My Technologies
+My Technologies
 
 > Technologies that I am interested in
 
