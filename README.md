@@ -108,6 +108,10 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="ReactDjangoJS"/>
+      <br>Fast API
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=django" width="55" height="55" alt="ReactDjangoJS"/>
       <br>Django
     </td>
