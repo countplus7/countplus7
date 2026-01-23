@@ -44,16 +44,16 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=c#" width="55" height="55" alt="Bootstrap" />
+      <br>C#
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="55" height="55" alt="Jquery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt="Jquery" />
+      <br>.NET
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Tailwind" />
+      <br>Java
     </td>
   </tr>
   <tr>
@@ -78,24 +78,6 @@
       <br>Nuxt JS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mui" width="55" height="55" alt="MUI"/>
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Chakra UI"/>
-      <br>Chakra UI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=apollo" width="55" height="55" alt="Ant Design"/>
-      <br>Ant D
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuetify" width="55" height="55" alt="Vuetify"/>
-      <br>Vuetify
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
       <br>Express
     </td>
@@ -104,16 +86,34 @@
       <br>Node JS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="Node JS"/>
+      <br>Nest JS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
       <br>Laravel
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=symfony" width="55" height="55" alt="ReactDjangoJS"/>
+      <br>Symfony
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="ReactDjangoJS"/>
-      <br>Fast API
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="ReactDjangoJS"/>
+      <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=django" width="55" height="55" alt="ReactDjangoJS"/>
       <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL"/>
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/>
@@ -124,26 +124,46 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite"/>
       <br>SQLite
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="SQLite"/>
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="SQLite"/>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sequelize" width="55" height="55" alt="SQLite"/>
+      <br>Sequelize
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="AWS"/>
+      <br>Firebase
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="AWS"/>
       <br>Supabase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="AWS"/>
-      <br>Firebase
+        <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=googlecloud" width="55" height="55" alt="AWS"/>
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="AWS"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="AWS"/>
+      <br>Nginx
     </td>
   </tr>
 </table>
