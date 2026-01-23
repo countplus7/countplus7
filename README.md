@@ -82,6 +82,10 @@
       <br>Vue.js
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="55" height="55"/>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55"/>
       <br>Express
     </td>
@@ -97,12 +101,12 @@
         <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="55" height="55"/>
       <br>Laravel
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" width="55" height="55"/>
       <br>Symfony
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="55" height="55"/>
       <br>FastAPI
@@ -138,10 +142,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55"/>
       <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" alt="Sequelize" width="55" height="55"/>
-      <br>Sequelize
     </td>
   </tr>
   <tr>
