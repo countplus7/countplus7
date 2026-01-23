@@ -161,5 +161,9 @@
         <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="AWS"/>
       <br>Docker
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="AWS"/>
+      <br>Nginx
+    </td>
   </tr>
 </table>
