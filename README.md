@@ -2,7 +2,7 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a full-stack developer with extensive experience building scalable, user-focused web applications using modern technologies.
+  I am a full-stack developer with extensive experience building scalable, user-focused web & mobile applications using modern technologies.
   </p>
   <p align="justify">
   I am proficient in front-end development with HTML5, CSS3, Bootstrap, and Tailwind CSS, as well as JavaScript/TypeScript libraries and frameworks such as React and Next.js, and in back-end development with Node.js, Laravel, and Python web frameworks like FastAPI, delivering robust, maintainable systems.
