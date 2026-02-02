@@ -1,14 +1,17 @@
-## Web | AI & Automation | Scraping Specialist
+## Full-Stack Developer
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a skilled full-stack developer with experience designing, building, and scaling modern digital solutions. I specialize in creating high-performance web applications, intelligent AI-driven systems, and automation workflows that improve efficiency and deliver real business value.
+  I am a full-stack developer with extensive experience building scalable, user-focused web applications using modern technologies.
   </p>
   <p align="justify">
-  I work across the full technology stack, handling everything from backend architecture and APIs to responsive, user-focused frontends and cloud deployments. My expertise includes integrating AI and machine learning models, building automation pipelines, and developing systems that optimize processes, enhance customer experiences, and support data-driven decision-making.
+  I am proficient in front-end development with HTML5, CSS3, Bootstrap, and Tailwind CSS, as well as JavaScript/TypeScript libraries and frameworks such as React and Next.js, and in back-end development with Node.js, Laravel, and Python web frameworks like FastAPI, delivering robust, maintainable systems.
   </p>
   <p align="justify">
-  With a strong emphasis on clean architecture, scalability, and performance, I translate complex business requirements into reliable, production-ready solutions. I collaborate effectively with cross-functional teams and stakeholders, thrive in fast-paced environments, and am passionate about leveraging technology to solve real-world problems.
+  I have experience in WordPress development, including Elementor, WooCommerce, and essential plugins for creating dynamic, user-friendly websites.
+  </p>
+  <p align="justify">
+  I specialize in AI and automation, leveraging machine learning solutions, intelligent workflows, and process automation to optimize efficiency and deliver measurable results.
   </p>
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
