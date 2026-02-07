@@ -2,16 +2,19 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a full-stack developer with extensive experience building scalable, user-focused web & mobile applications using modern technologies.
+  I am a full-stack developer with extensive experience in architecting, developing, and deploying responsive, scalable, high-performance web applications. I focus on delivering robust, user-friendly solutions using modern, industry-proven technologies.
   </p>
   <p align="justify">
-  I am proficient in front-end development with HTML5, CSS3, Bootstrap, and Tailwind CSS, as well as JavaScript/TypeScript libraries and frameworks such as React and Next.js, and in back-end development with Node.js, Laravel, and Python web frameworks like FastAPI, delivering robust, maintainable systems.
+  On the frontend, I have strong expertise in HTML5, CSS3, Bootstrap, Tailwind CSS, and JavaScript and TypeScript frameworks, such as React, Next.js, and Svelte. I design clean, intuitive interfaces that prioritize performance, accessibility, and exceptional user experience.
   </p>
   <p align="justify">
-  I have experience in WordPress development, including Elementor, WooCommerce, and essential plugins for creating dynamic, user-friendly websites.
+  On the backend, I specialize in building secure, efficient, and maintainable systems using Node.js, Laravel, and Python-based frameworks such as FastAPI, Django, and Flask. This allows me to deliver complete end-to-end solutions, from system architecture to deployment and optimization.
   </p>
   <p align="justify">
-  I specialize in AI and automation, leveraging machine learning solutions, intelligent workflows, and process automation to optimize efficiency and deliver measurable results.
+  I also have solid experience in WordPress development, working extensively with Elementor, WooCommerce, and essential plugins to create dynamic, responsive, conversion-focused websites tailored to specific business goals.
+  </p>
+  <p align="justify">
+  Additionally, I specialize in AI-driven solutions and automation, applying machine learning, intelligent workflows, and process optimization to improve efficiency, reduce operational overhead, and generate measurable business impact.
   </p>
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
