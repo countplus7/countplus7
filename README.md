@@ -1,8 +1,8 @@
-## Full-Stack Developer
+## Full-Stack Developer | AI & Data Engineer
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a full-stack developer with extensive experience in architecting, developing, and deploying responsive, scalable, high-performance web applications. I focus on delivering robust, user-friendly solutions using modern, industry-proven technologies.
+  I am a full-stack developer | AI & data engineer with extensive experience in architecting, developing, and deploying responsive, scalable, high-performance web applications. I focus on delivering robust, user-friendly solutions using modern, industry-proven technologies.
   </p>
   <p align="justify">
   On the frontend, I have strong expertise in HTML5, CSS3, Bootstrap, Tailwind CSS, and JavaScript and TypeScript frameworks, such as React, Next.js, and Svelte. I design clean, intuitive interfaces that prioritize performance, accessibility, and exceptional user experience.
