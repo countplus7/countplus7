@@ -2,10 +2,13 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a Full-Stack Developer and AI & Data Engineer with experience building scalable web applications, data-driven systems, and AI-powered solutions. My frontend expertise includes React, Next.js, Vue.js, Angular, Svelte, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, and Bootstrap.
+  I am a Full-Stack Developer and AI & Data Engineer with extensive experience designing, developing, and delivering scalable web applications, data-driven platforms, and AI-powered solutions. I focus on building robust, maintainable, and high-performance systems that solve real-world business problems and deliver measurable impact.
   </p>
   <p align="justify">
-  On the backend, I work with Node.js, Python (FastAPI, Django, Flask), Laravel, C#/.NET, Go, and Ruby on Rails to develop secure, high-performance APIs and applications. I also have experience with data pipelines, automation, AI integrations, cloud platforms, and modern databases, enabling me to deliver end-to-end solutions from architecture and development to deployment and optimization.
+  On the frontend, I have strong experience with modern frameworks including React, Next.js, Vue.js, Angular, and Svelte, along with solid proficiency in JavaScript, TypeScript, HTML, CSS, Tailwind CSS, and Bootstrap. I also have extensive WordPress experience, including custom theme and plugin development, headless WordPress architectures, Tailwind CSS-based themes, and Advanced Custom Fields (ACF) implementations to create flexible, content-driven websites.
+  </p>
+  <p align="justify">
+  On the backend, I work with Node.js, Python (FastAPI, Django, Flask), Laravel, C#/.NET, Go, and Ruby on Rails to build secure and scalable APIs and services. I also have experience in data engineering and AI integration, including building data pipelines, automating workflows, and deploying cloud-based solutions, enabling full end-to-end system delivery from architecture and development to deployment, monitoring, and optimization.
   </p>
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
