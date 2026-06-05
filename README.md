@@ -2,19 +2,10 @@
 
 <span style="display: inline-block; width: 50%;">
   <p align="justify">
-  I am a full-stack developer | AI & data engineer with extensive experience in architecting, developing, and deploying responsive, scalable, high-performance web applications. I focus on delivering robust, user-friendly solutions using modern, industry-proven technologies.
+  I am a Full-Stack Developer and AI & Data Engineer with experience building scalable web applications, data-driven systems, and AI-powered solutions. My frontend expertise includes React, Next.js, Vue.js, Angular, Svelte, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, and Bootstrap.
   </p>
   <p align="justify">
-  On the frontend, I have strong expertise in HTML5, CSS3, Bootstrap, Tailwind CSS, and JavaScript and TypeScript frameworks, such as React, Next.js, and Svelte. I design clean, intuitive interfaces that prioritize performance, accessibility, and exceptional user experience.
-  </p>
-  <p align="justify">
-  On the backend, I specialize in building secure, efficient, and maintainable systems using Node.js, Laravel, and Python-based frameworks such as FastAPI, Django, and Flask. This allows me to deliver complete end-to-end solutions, from system architecture to deployment and optimization.
-  </p>
-  <p align="justify">
-  I also have solid experience in WordPress development, working extensively with Elementor, WooCommerce, and essential plugins to create dynamic, responsive, conversion-focused websites tailored to specific business goals.
-  </p>
-  <p align="justify">
-  Additionally, I specialize in AI-driven solutions and automation, applying machine learning, intelligent workflows, and process optimization to improve efficiency, reduce operational overhead, and generate measurable business impact.
+  On the backend, I work with Node.js, Python (FastAPI, Django, Flask), Laravel, C#/.NET, Go, and Ruby on Rails to develop secure, high-performance APIs and applications. I also have experience with data pipelines, automation, AI integrations, cloud platforms, and modern databases, enabling me to deliver end-to-end solutions from architecture and development to deployment and optimization.
   </p>
 </span>
 <!-- <img style="display: inline-block; height: 250px; width: 400px;" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" /> -->
